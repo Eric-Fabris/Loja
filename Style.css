@@ -121,8 +121,10 @@ img:hover {
 }
 
 .inicio {
-    padding: 20px;
-    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     color: white;
     width: 100%;
     background-color: blueviolet;
@@ -130,8 +132,10 @@ img:hover {
 }
 
 .inicio2 {
-    padding: 20px;
-    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     color: white;
     width: 100%;
     background-color: blueviolet;
@@ -139,8 +143,10 @@ img:hover {
 }
 
 .inicio3 {
-    padding: 20px;
-    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     color: white;
     width: 100%;
     background-color: blueviolet;
@@ -173,4 +179,118 @@ img:hover {
     padding-left: 150px;
     cursor: pointer;
 }
-    
+
+.fas fa-shopping-cart {
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.car1 {
+    margin-left: 195px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    transition: 1.5s;
+}
+
+.car2 {
+    margin-left: 80px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    transition: 1.5s;
+}
+
+.car3 {
+    margin-left: 80px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.car4 {
+    margin-left: 195px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.car5 {
+    margin-left: 80px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.car6 {
+    margin-left: 80px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.car7 {
+    margin-left: 195px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.car8 {
+    margin-left: 80px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.car9 {
+    margin-left: 80px;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: red;
+    border-radius: 15px;
+    border-color: blueviolet;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
