@@ -82,6 +82,7 @@ header {
     width: 500px;
     height: 620px;
     transition: 1s;
+    cursor: pointer;
 }
 
 
@@ -89,6 +90,7 @@ header {
     width: 500px;
     height: 620px;
     transition: 1s;
+    cursor: pointer;
 }
 
 
@@ -97,6 +99,7 @@ header {
     width: 500px;
     height: 620px;
     transition: 1s;
+    cursor: pointer;
 }
 
 body {
@@ -150,6 +153,7 @@ img:hover {
     align-items: center;
     display: block;
     padding-left: 150px;
+    cursor: pointer;
 }
 
 .menut {
@@ -158,6 +162,7 @@ img:hover {
     align-items: center;
     display: block;
     padding-left: 150px;
+    cursor: pointer;
 }
 
 .menub {
@@ -166,5 +171,6 @@ img:hover {
     align-items: center;
     display: block;
     padding-left: 150px;
+    cursor: pointer;
 }
     
